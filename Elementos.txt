@@ -50,7 +50,9 @@ ex: <ul>
   <small> </small> -->   Para deixar tudo o que estiver dentro COM TAMANHO MENOR.
   <sup> </sup> -->   Para deixar tudo o que estiver EM UMA LINHA SUPERIOR. ex: <p> 1m <sup> 2 </sup> </p>  --> 1m2(finge que o 2 ta em cima do m) :)
   <sub> </sub> -->   Para deixar tudo o que estiver EM UMA LINHA INFERIOR. ex: <p> H <sub> 2 </sub> O</p>  --> H2O(finge que o 2 ta para baixo) :)
-  
 
+
+
+  <div> </div> É um contentor genérico de outros elementos
 
         
