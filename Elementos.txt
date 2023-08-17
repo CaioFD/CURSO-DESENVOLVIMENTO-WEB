@@ -1,0 +1,56 @@
+<p> PARAGRAFO DE HTML </P>
+<p> Primeira Frase </p> <p> Segunda Frase </p> ------->       Primeira Frase
+                                                              Segunda Frase
+
+
+<h1> Heading 1 (Titulo 1) </h1>
+<h2> Heading 2 (Titulo 2) </h2>  --------> Quanto maior o numero do h(heading), menor o tamanho do titulo,tendo em base o h1 como maior titulo.
+<h3> Heading 3 (Titulo 3) </h3> 
+
+
+<br> ----> É utilizado para a quebra de linha
+ex: <p> Este é um texto bem do <br> aleatorio. </p> ----> Este é um texto bem do 
+                                                         aleatorio.  
+Se utilizar dois tags <p></p> como no primeiro exemplo deste txt ela quebrará a linha, mas dará dois de espaçamento, já o <br> fará a quebra de linha perfeita.                                                           
+ 
+
+ <hr> é utilizado para colocar uma linha continua entre dois textos(Funciona como um separador horizontal).
+ ex: <p> Primeira Frase </p>          Primeira Frase
+     <hr>                   -------> --------------------
+     <p> Segunda Frase </p>          Segunda Frase 
+
+
+<ol> , <ul> e <li>
+
+<li> São Listas </li> 
+
+<ol> --> Lista Ordenada(Order list)
+ex: <ol> 
+        <li> Primeiro elemento </li>              1.Primeroo elemento
+        <li> Segundo elemento </li>   ----->      2.Segundo elemento
+        <li> Terceiro elemento </li>              3.Terceiro elemento
+     </ol>   
+
+
+<ul> --> Lista desordenada(Unorder list)
+ex: <ul>
+        <li> Primeiro elemento </li>              . Primeroo elemento
+        <li> Segundo elemento </li>   ----->      . Segundo elemento
+        <li> Terceiro elemento </li>              . Terceiro elemento
+    </ul>    
+
+  Outros elemento relacionados à texto:
+  <strong> </strong> --> Para deixar tudo o que estiver dentro em NEGRITO.
+  <i> </i> -->   Para deixar tudo o que estiver dentro em ITALICO.
+  <u> </u> -->   Para deixar tudo o que estiver dentro em SUBLINHADO.
+  <s> </s> -->   Para deixar tudo o que estiver dentro em RASURADO.
+  <q> </q> -->   Para deixar tudo o que estiver dentro em ASPAS.
+  <mark> </mark> -->   Para deixar tudo o que estiver dentro em REALCE.
+  <abbr> </abbr> -->   Nao sei explicar so vendo mesmo.
+  <small> </small> -->   Para deixar tudo o que estiver dentro COM TAMANHO MENOR.
+  <sup> </sup> -->   Para deixar tudo o que estiver EM UMA LINHA SUPERIOR. ex: <p> 1m <sup> 2 </sup> </p>  --> 1m2(finge que o 2 ta em cima do m) :)
+  <sub> </sub> -->   Para deixar tudo o que estiver EM UMA LINHA INFERIOR. ex: <p> H <sub> 2 </sub> O</p>  --> H2O(finge que o 2 ta para baixo) :)
+  
+
+
+        
