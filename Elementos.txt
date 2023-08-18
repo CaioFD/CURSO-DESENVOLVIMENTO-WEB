@@ -55,4 +55,6 @@ ex: <ul>
 
   <div> </div> É um contentor genérico de outros elementos
 
+  &copy; --> Faz este simbolo ©
+
         
